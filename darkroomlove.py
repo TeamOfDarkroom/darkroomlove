@@ -86,23 +86,7 @@ __________ _____ _______ ____. ___ ___ _____ \______ \ / _ \ \ \ | |/ | \ / _ \ 
  
                                                                                                                                                          
                                                                                                                                                          
-DDDDDDDDDDDDD                                           kkkkkkkk           RRRRRRRRRRRRRRRRR                                                             
-D::::::::::::DDD                                        k::::::k           R::::::::::::::::R                                                            
-D:::::::::::::::DD                                      k::::::k           R::::::RRRRRR:::::R                                                           
-DDD:::::DDDDD:::::D                                     k::::::k           RR:::::R     R:::::R                                                          
-  D:::::D    D:::::D  aaaaaaaaaaaaa  rrrrr   rrrrrrrrr   k:::::k    kkkkkkk  R::::R     R:::::R   ooooooooooo      ooooooooooo      mmmmmmm    mmmmmmm   
-  D:::::D     D:::::D a::::::::::::a r::::rrr:::::::::r  k:::::k   k:::::k   R::::R     R:::::R oo:::::::::::oo  oo:::::::::::oo  mm:::::::m  m:::::::mm 
-  D:::::D     D:::::D aaaaaaaaa:::::ar:::::::::::::::::r k:::::k  k:::::k    R::::RRRRRR:::::R o:::::::::::::::oo:::::::::::::::om::::::::::mm::::::::::m
-  D:::::D     D:::::D          a::::arr::::::rrrrr::::::rk:::::k k:::::k     R:::::::::::::RR  o:::::ooooo:::::oo:::::ooooo:::::om::::::::::::::::::::::m
-  D:::::D     D:::::D   aaaaaaa:::::a r:::::r     r:::::rk::::::k:::::k      R::::RRRRRR:::::R o::::o     o::::oo::::o     o::::om:::::mmm::::::mmm:::::m
-  D:::::D     D:::::D aa::::::::::::a r:::::r     rrrrrrrk:::::::::::k       R::::R     R:::::Ro::::o     o::::oo::::o     o::::om::::m   m::::m   m::::m
-  D:::::D     D:::::Da::::aaaa::::::a r:::::r            k:::::::::::k       R::::R     R:::::Ro::::o     o::::oo::::o     o::::om::::m   m::::m   m::::m
-  D:::::D    D:::::Da::::a    a:::::a r:::::r            k::::::k:::::k      R::::R     R:::::Ro::::o     o::::oo::::o     o::::om::::m   m::::m   m::::m
-DDD:::::DDDDD:::::D a::::a    a:::::a r:::::r           k::::::k k:::::k   RR:::::R     R:::::Ro:::::ooooo:::::oo:::::ooooo:::::om::::m   m::::m   m::::m
-D:::::::::::::::DD  a:::::aaaa::::::a r:::::r           k::::::k  k:::::k  R::::::R     R:::::Ro:::::::::::::::oo:::::::::::::::om::::m   m::::m   m::::m
-D::::::::::::DDD     a::::::::::aa:::ar:::::r           k::::::k   k:::::k R::::::R     R:::::R oo:::::::::::oo  oo:::::::::::oo m::::m   m::::m   m::::m
-DDDDDDDDDDDDD         aaaaaaaaaa  aaaarrrrrrr           kkkkkkkk    kkkkkkkRRRRRRRR     RRRRRRR   ooooooooooo      ooooooooooo   mmmmmm   mmmmmm   mmmmmm
-                                                                                                                                                         
+                                                                                                                               
                                                                                                                                                          
                                                                                                                                                          
                                                                                                                                                          
@@ -548,14 +532,7 @@ def brute():
             super()
 					
 
-8888888b.                   888      8888888b.                                 
-888  "Y88b                  888      888   Y88b                                
-888    888                  888      888    888                                
-888    888  8888b.  888d888 888  888 888   d88P .d88b.   .d88b.  88888b.d88b.  
-888    888     "88b 888P"   888 .88P 8888888P" d88""88b d88""88b 888 "888 "88b 
-888    888 .d888888 888     888888K  888 T88b  888  888 888  888 888  888  888 
-888  .d88P 888  888 888     888 "88b 888  T88b Y88..88P Y88..88P 888  888  888 
-8888888P"  "Y888888 888     888  888 888   T88b "Y88P"   "Y88P"  888  888  888 
+
                                                                                
                                                                                
                                                                                
